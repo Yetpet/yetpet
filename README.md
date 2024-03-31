@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+# Skills
+
+### Languages
+- SQL / Adobe ColdFusion / Web development (HTML/CSS, JavaScript) / Python Language - Basic knowledge
+### Databases
+- Microsoft SQL Server / Oracle / MySQL / PostgreSQL / BigQuery
+### Infrastructure
+- Microsoft Azure / GCP - Google Cloud Platform
+### BI Tools
+- Microsoft Power BI / SSRS / Microsoft Office Suites
+### Data Infrastructure Framework/Developer Tools
+- SSIS
+
 <!--
 **Yetpet/yetpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
