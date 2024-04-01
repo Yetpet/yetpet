@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about anything I want to learn
+- 💬 Ask me about anything
 - 📫 How to reach me: ...
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love comedy
@@ -18,6 +18,8 @@
 - Microsoft Power BI / SSRS / Microsoft Office Suites
 ### Data Infrastructure Framework/Developer Tools
 - SSIS
+
+
 
 <!--
 **Yetpet/yetpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
