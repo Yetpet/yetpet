@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Yetunde 👨‍💻
+## Hi there 👋 I'm Yetunde 👩‍💻
 
 - 💬 Ask me about anything
 - 📫 How to reach me: ...
@@ -24,7 +24,9 @@
 [![Yetpet's GitHub stats](https://github-readme-stats.vercel.app/api?username=yetpet&show_icons=true&count_private=true&theme=radical)](https://github.com/yetpet/github-readme-stats)
 
 ### <b> Languages </b>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yetpet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/yetpet/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yetpet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/yetpet/github-readme-stats)
+
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/yetpet/github-readme-quotes)
 
 <!--
 **Yetpet/yetpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
