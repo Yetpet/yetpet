@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 💬 Ask me about anything I want to learn
+- 📫 How to reach me: ...
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love comedy
+- 
+
 # Skills
 
 ### Languages
